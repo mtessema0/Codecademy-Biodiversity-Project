@@ -1,0 +1,45 @@
+Plant Observations:
+
+1. For all parks and for each park, find the average number of observations. Which park has the least average observations, and which has the most?
+
+2. Which species have the most observations for each park? What about across all parks?
+
+3. Which genus’ contain the most observations for each park.? What about across all parks?
+
+4. Which genus’ appear most frequently (have the most unique species) and least frequently for each park? What about across all parks?
+
+5. Create a function that compares the total number of species belonging to a genus for each park given the genus name.
+
+6.  Create a function that compares the number of observations for each park given the genus name.
+
+
+
+Animal Observations:
+
+
+1. What is the average number of unique species per genus? What about across all genus’ ? What genus contains the most unique species? What about the least?
+
+2. What is the average number of unique species per animal type? What about across all animal types ? What animal type contains the most unique species? What about the least?
+
+3. Which animal types contain the highest number of unique genus’? Which contain the lowest and what is the average across all animal types?
+
+4a. Compare conservation status across animal type(mammal, amphibian, etc)
+4b. Calculate percentage of species under conservation for each animal type.
+4c. Which genus’ contain the largest number of endangered species? 
+4d. Create a function that returns highly endangered species (Threatened or Endangered) given genus name.
+4f. Create a function that compares the most endangered species given animal type.
+4g. Are differences between species and their conservation status statistically significant?
+	
+
+
+Goals:
+
+Clean data (Drop duplicate rows, fill or drop missing data, organize columns)
+
+Create visualization when appropriate.
+
+Create functions when appropriate (typically to compare some variable given the genus or species name)
+
+Apply hypothesis testing when necessary. 
+
+
